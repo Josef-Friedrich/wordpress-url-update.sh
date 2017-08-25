@@ -2,10 +2,17 @@
 
 # wordpress-url-update.sh
 
+
+## Summary / Short description
+
+> A small shell script to update the url of wordpress sites.
+
 ## Usage
 
 ```
 Usage: wordpress-url-update.sh
+
+A small shell script to update the url of wordpress sites.
 
 Options:
 	-u MySQL user
@@ -15,8 +22,7 @@ Options:
 	-n New URL
 	-h Show usage
 
-'wordpress-url-update.sh' is a small shell script to update the url of
-wordpress sites.
+
 
 This script uses the mysql shell command. To use this script you must have
 access to the mysql server providing the data for your wordpress site
@@ -55,9 +61,9 @@ Then you can update your wordpress site executing this short command:
 
 	wordpress-url-update.sh
 ```
-
 ## Testing
 
 ```
 make test
 ```
+
