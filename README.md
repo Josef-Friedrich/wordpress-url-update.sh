@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/JosefFriedrich-shell/wordpress-url-update.sh.svg?branch=master)](https://travis-ci.org/JosefFriedrich-shell/wordpress-url-update.sh)
+[![Build Status](https://travis-ci.org/Josef-Friedrich/wordpress-url-update.sh.svg?branch=master)](https://travis-ci.org/Josef-Friedrich/wordpress-url-update.sh)
 
 # wordpress-url-update.sh
 
