@@ -61,6 +61,11 @@ Then you can update your wordpress site executing this short command:
 
 	wordpress-url-update.sh
 ```
+
+## Project pages
+
+* https://github.com/Josef-Friedrich/wordpress-update-url.sh
+
 ## Testing
 
 ```
